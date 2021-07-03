@@ -5,9 +5,9 @@
   "keywords": [
     "Youtube","YoutubeDownloader"
   ],
-  "repository": "https://github.com/Abdulla034/Youtube-Download-Bot.git",
+  "repository": "https://github.com/Abdulla034/Youtube-Downloader-V2.git",
   "success_url": "https://t.me/mehdizade_abdula",
-  "website": "https://github.com/Abdulla034/Youtube-Download-Bot.git",
+  "website": "https://github.com/Abdulla034/Youtube-Downloader-V2.git",
   "env": {
         "API_ID": {"description": "Get this value from https://my.telegram.org", "required": true},
         "API_HASH": {"description": "Get this value from https://my.telegram.org" , "required": true},
